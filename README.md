@@ -1,13 +1,13 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-![CLICKNAME_click]()
+# MCP25625 click
 
 ---
-[Product Page](http://www.mikroe.com/)
+[Product Page](http://www.mikroe.com/click/mcp-25625/)
 
-[Manual Page](http://docs.mikroe.com/)
+[Manual Page](http://docs.mikroe.com/MCP25625_click)
 
-[Learn Page](http://learn.mikroe.com/)
+[Learn Page](http://learn.mikroe.com/mcp25625-can-controler/)
 
 ---
 
