@@ -1,11 +1,12 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-# MCP25625 click
+![MCP25625 click](http://cdn.mikroe.com/img/banners/news/2016/07/mcp25625-click-banner-news.png)
 
 ---
+
 [Product Page](http://www.mikroe.com/click/mcp-25625/)
 
-[Manual Page](http://docs.mikroe.com/MCP25625_click)
+[Manual Page](http://docs.mikroe.com/MCP_25625_click)
 
 [Learn Page](http://learn.mikroe.com/mcp25625-can-controler/)
 
@@ -120,7 +121,6 @@ void system_init()
 void display_init()
 {
     TFT_Init_ILI9341_8bit( 320, 240 );
-    //TFT_BLED = 1;
     TFT_Set_Pen( CL_WHITE, 1 );
     TFT_Set_Brush( 1, CL_WHITE, 0, 0, 0, 0 );
     TFT_Set_Font( TFT_defaultFont, CL_BLACK, FO_HORIZONTAL );
